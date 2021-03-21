@@ -1,6 +1,6 @@
 :man_student: C++ Básico - Projeto WTIc :woman_student: 
 
-O .main contém a descrição dos separadamente por tema dos ensinamentos em aula.
+O .main contém a descrição por tema dos ensinamentos em aula.
 
 Estão Separados em Pastas.
 
