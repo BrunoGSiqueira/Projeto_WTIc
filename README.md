@@ -14,4 +14,10 @@ Estão Separados em Pastas.
   + Como se utilizar a estrutura.
   + Noção de contadores.
 
+- Aula 3 - Estrutura de Decisão " For ". 
+  + Como se utilizar a estrutura.
+
+- Aula 2 - Estrutura de Decisão " While ". 
+  + Como se utilizar a estrutura.
+  
 :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
